@@ -1,0 +1,50 @@
+c:\users\junge\documents\visual studio 2013\Projects\黑白棋\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.Form1.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.exe
+C:\Users\JUNGE\Documents\Visual Studio 2013\Projects\黑白棋\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\ymh\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\ymh\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\ymh\Desktop\黑白棋\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.csprojResolveAssemblyReference.cache
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Form1.resources
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.Cache
+C:\Users\ymh\Desktop\黑白棋\黑白棋\obj\Debug\黑白棋.exe
+D:\下載\--master\--master\黑白棋\bin\Debug\黑白棋.exe.config
+D:\下載\--master\--master\黑白棋\bin\Debug\黑白棋.exe
+D:\下載\--master\--master\黑白棋\bin\Debug\黑白棋.pdb
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.csproj.AssemblyReference.cache
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.csproj.SuggestedBindingRedirects.cache
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.Form1.resources
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.cache
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.csproj.CoreCompileInputs.cache
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.exe
+D:\下載\--master\--master\黑白棋\obj\Debug\黑白棋.pdb
+C:\Users\windy\Desktop\mid\黑白棋\bin\Debug\黑白棋.exe.config
+C:\Users\windy\Desktop\mid\黑白棋\bin\Debug\黑白棋.exe
+C:\Users\windy\Desktop\mid\黑白棋\bin\Debug\黑白棋.pdb
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.csproj.AssemblyReference.cache
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.csproj.SuggestedBindingRedirects.cache
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.Form1.resources
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.cache
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.csproj.CoreCompileInputs.cache
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.exe
+C:\Users\windy\Desktop\mid\黑白棋\obj\Debug\黑白棋.pdb
+E:\嘉大\推甄\mid\黑白棋\bin\Debug\黑白棋.exe.config
+E:\嘉大\推甄\mid\黑白棋\bin\Debug\黑白棋.exe
+E:\嘉大\推甄\mid\黑白棋\bin\Debug\黑白棋.pdb
+E:\嘉大\推甄\mid\黑白棋\obj\Debug\黑白棋.csproj.AssemblyReference.cache
+E:\嘉大\推甄\mid\黑白棋\obj\Debug\黑白棋.Form1.resources
+E:\嘉大\推甄\mid\黑白棋\obj\Debug\黑白棋.Properties.Resources.resources
+E:\嘉大\推甄\mid\黑白棋\obj\Debug\黑白棋.csproj.GenerateResource.cache
+E:\嘉大\推甄\mid\黑白棋\obj\Debug\黑白棋.csproj.CoreCompileInputs.cache
+E:\嘉大\推甄\mid\黑白棋\obj\Debug\黑白棋.exe
+E:\嘉大\推甄\mid\黑白棋\obj\Debug\黑白棋.pdb
